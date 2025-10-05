@@ -1,9 +1,11 @@
 # 🎵 Album du jour - Inky Impression 7.3"
 
+![Affichage de l'album du jour sur un PIM773](pimonori.png "Titre de l'image")
+
 Configuration complète pour afficher un album aléatoire depuis ta playlist Spotify sur ton écran e-ink.
 
 ```bash
-#Il est possible de tester dans le terminal sur un Macbook le script en utilisant macos.py à la place de main.py
+Il est possible de tester dans le terminal sur un Macbook le script en utilisant macos.py à la place de main.py
 ```
 
 ---
