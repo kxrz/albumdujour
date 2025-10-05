@@ -2,6 +2,10 @@
 
 Configuration complète pour afficher un album aléatoire depuis ta playlist Spotify sur ton écran e-ink.
 
+```bash
+#Il est possible de tester dans le terminal sur un Macbook le script en utilisant macos.py à la place de main.py
+```
+
 ---
 
 ## 📦 Installation
